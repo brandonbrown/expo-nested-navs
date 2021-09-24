@@ -30,8 +30,8 @@ function getHeaderTitle(route) {
       return 'Feed';
     case 'Rooms':
       return 'Rooms';
-    case 'Tea':
-      return 'Tea';
+    case 'TeaTime':
+      return 'TeaTime';
     default:
       return 'Custom Home Title';
   }
